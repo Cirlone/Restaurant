@@ -1,0 +1,18 @@
+<svg width="252" height="242" viewBox="0 0 252 242" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_2415_506)">
+<path d="M115.917 126.664C113.673 126.664 111.473 126.039 109.564 124.859C107.655 123.68 106.113 121.992 105.109 119.985C104.105 117.977 103.681 115.731 103.882 113.496C104.084 111.261 104.904 109.126 106.25 107.331C111.385 100.492 118.333 97.6641 128 97.6641C137.667 97.6641 152.167 104.588 152.167 113.372C152.167 114.975 151.53 116.511 150.397 117.644C149.264 118.778 147.727 119.414 146.125 119.414H137.667C134.467 119.334 128 120.622 122.596 124.651C120.616 125.964 118.293 126.664 115.917 126.664Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M152.167 113.375V114.583C152.167 121.418 152.167 124.837 150.042 126.959C147.921 129.083 144.501 129.083 137.667 129.083C134.467 129.006 128 130.292 122.596 134.32C120.776 135.528 118.662 136.22 116.479 136.321C114.297 136.423 112.127 135.931 110.202 134.898C108.277 133.865 106.668 132.329 105.547 130.454C104.425 128.579 103.833 126.435 103.833 124.25V114.583" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M112.292 114.578C112.292 115.54 112.674 116.462 113.353 117.141C114.033 117.821 114.955 118.203 115.917 118.203C116.878 118.203 117.8 117.821 118.48 117.141C119.16 116.462 119.542 115.54 119.542 114.578C119.542 113.617 119.16 112.695 118.48 112.015C117.8 111.335 116.878 110.953 115.917 110.953C114.955 110.953 114.033 111.335 113.353 112.015C112.674 112.695 112.292 113.617 112.292 114.578Z" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<filter id="filter0_d_2415_506" x="-3" y="-8" width="258" height="258" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-2" dy="4"/>
+<feGaussianBlur stdDeviation="50"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.847059 0 0 0 0 0.764706 0 0 0 0 0.647059 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2415_506"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2415_506" result="shape"/>
+</filter>
+</defs>
+</svg>
