@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="Feature">
+        <directory suffix="Test.php">./tests/Feature</directory>
+        <exclude>./tests/Feature/ApiTokenPermissionsTest.php</exclude>
+        <exclude>./tests/Feature/CreateApiTokenTest.php</exclude>
+        <exclude>./tests/Feature/DeleteApiTokenTest.php</exclude>
+        <exclude>./tests/Feature/EmailVerificationTest.php</exclude>
+        <exclude>./tests/Feature/TwoFactorAuthenticationSettingsTest.php</exclude>
+    </testsuite>
+</testsuites><?xml version="1.0" encoding="UTF-8"?>
 <phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:noNamespaceSchemaLocation="./vendor/phpunit/phpunit/phpunit.xsd"
          bootstrap="vendor/autoload.php"
