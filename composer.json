@@ -22,7 +22,8 @@
         "intervention/image": "^3.11",
         "intervention/image-laravel": "^1.5",
         "livewire/volt": "^1.6",
-        "skagarwal/google-places-api": "^3.1"
+        "skagarwal/google-places-api": "^3.1",
+        "laravel/fortify": "^1.36"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
